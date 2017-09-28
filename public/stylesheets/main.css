@@ -1,0 +1,21 @@
+#home {
+    background-color: #F5F5F5;
+    height: 500px;
+}
+#about {
+    background-color: #4E6B82;
+    height: 500px;
+}
+#portfolio {
+    background-color: green;
+    height: 500px;
+}
+#resume {
+    background-color: 4E6B82;
+    height: 500px;
+}
+
+header .container {
+    padding-right: 0px;
+    padding-left:  0px;
+}
