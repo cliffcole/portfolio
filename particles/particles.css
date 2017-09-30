@@ -1,0 +1,19 @@
+#particles-js {
+    padding-top: 55px;
+}
+
+#home {
+    background-color: lightblue;
+    height: 600px;
+    padding-top: 55px;
+}
+#about {
+    background-color: lightcyan;
+    height: 600px;
+    padding-top: 55px;
+}
+#stuff {
+    background-color: #3f3a3e;
+    height: 600px;
+    padding-top: 55px;
+}
